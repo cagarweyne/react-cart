@@ -1,0 +1,35 @@
+.checkout {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+
+  h4 {
+    margin: 0;
+    margin-top: 1rem;
+  }
+
+  button {
+    width: 200px;
+    margin: 0 auto;
+  }
+
+  .stripe-card {
+    margin: 1rem 0;
+  }
+
+  .card-number {
+    margin-top: 2rem;
+  }
+
+  .card-element {
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding: 10px;
+    width: 55%;
+    margin: 0 auto;
+  }
+
+  .saved-card-btn {
+    margin-top: 1.5rem;
+  }
+}
